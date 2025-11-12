@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-  printf("Rexhaj\n");
+  printf("Unix\n");
   return 0;
 }

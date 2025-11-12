@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-  printf("Jason\n");
+  printf("Java\n");
   return 0;
 }
