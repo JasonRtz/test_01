@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(void) {
-  printf("200\n");
+  printf("Number: 3000\n");
   return 0;
 }
