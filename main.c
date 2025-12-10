@@ -1,5 +1,9 @@
 #include <stdio.h>
 
+void print_greeting(){
+	printf("Welcome!");
+}
+
 void print_numbers(){
 	for(int i = 1; i <= 10; i++){
 		printf("%d\n",i*10);
@@ -7,6 +11,8 @@ void print_numbers(){
 }
 
 int main(void) {
-  print_numbers();
-  return 0;
+	print_greeting();
+  	print_numbers();
+  
+	return 0;
 }
